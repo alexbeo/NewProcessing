@@ -1,0 +1,1 @@
+pdftotext -raw %1
